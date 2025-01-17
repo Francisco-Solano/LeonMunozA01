@@ -1,5 +1,5 @@
-# leonmunoza01
-
+# Practica Flutter
+Este es un proyecto que me ha servido para practicar Flutter y poner en práctica los conceptos básicos.
 Para este proyecto de Flutter he puesto en practica el uso de widgets y la manera de organizar la jerarquía entre ellos de manera que mi proyecto se vea identico al mostrado en figma, a continuación proporcionaré una imagen del resultado final e iré explicando los puntos que me han parecido más importantes.
 
 
